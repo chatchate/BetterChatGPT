@@ -30,7 +30,7 @@ const AboutMenu = () => {
             <div className='min-w-fit text-gray-900 dark:text-gray-300 text-sm flex flex-col gap-3 leading-relaxed'>
               <p>{t('description', { ns: 'about' })}</p>
               <p>
-                ycfaka.top
+   
               </p>
             </div>
           </div>
